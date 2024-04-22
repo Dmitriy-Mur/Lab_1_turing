@@ -1,1 +1,1 @@
-# Lab_1_Turing
+# Laboratory work Turing Machine
